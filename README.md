@@ -14,10 +14,12 @@ my programming acumen to solve complex problems and extract meaningful insights 
   #### Visualization: Tableau
   #### Specialization: Machine Learning and Statistics
   ## 📌 Showcase
-  I have pinned my relevant projects on my GitHub profile for a detailed showcase.
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+  I have pinned my relevant projects on my GitHub profile-"https://github.com/SowmyaKumar2326?tab=repositories" for a detailed showcase.
+  ## 🌐 Connect with Me
+    #### LinkedIn: 
+    #### Email: sowmya.khy@gmail.com
+    #### GitHub:
+
 
 <!---
 SowmyaKumar2326/SowmyaKumar2326 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
