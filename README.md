@@ -18,7 +18,7 @@ my programming acumen to solve complex problems and extract meaningful insights 
   ## 🌐 Connect with Me
     #### LinkedIn: 
     #### Email: sowmya.khy@gmail.com
-    #### GitHub:"https://github.com/SowmyaKumar2326"
+    #### GitHub: "https://github.com/SowmyaKumar2326"
 
 
 <!---
